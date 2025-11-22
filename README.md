@@ -226,41 +226,6 @@ For questions, improvements, or collaboration:
 
 ***
 
-## Additional Files to Create
-
-### .gitignore
-
-```
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-
-# Streamlit
-.streamlit/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# Models (optional - comment out if you want to include models)
-# models/*.pkl
-
-# IDE
-.vscode/
-.idea/
-*.swp
-
-# OS
-.DS_Store
-Thumbs.db
-```
-
-***
 
 ## Quick Start Commands
 
@@ -277,3 +242,4 @@ streamlit run app.py
 ```
 
 ***
+
